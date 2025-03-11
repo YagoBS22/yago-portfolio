@@ -22,15 +22,16 @@
         <img src="resources\images\Img_banner.png" alt="Foto de Yago" class="img">
       </div>
     </div>
-
+<!--
     <div class="index-learning">
         <div class="fullstack-learning">
-        <img src="resources/images/fullstack_icon.svg" alt="Icone FullStack">
+        <img src="assets/images/fullstack_icon.svg" alt="Icone FullStack">
           <div class="fullstack-text">
             <a class="fullstack-title">Curso de aprendizado em FullStack na Alura</a>
           </div>
         </div>
     </div>
+-->
   </main>
 </body>
 
