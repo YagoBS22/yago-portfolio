@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<?php require_once 'resources/layout/htmlhead.php'; ?>
+<?php require_once 'assets/layout/htmlhead.php'; ?>
 
 <body>
   <main class="main-index">
-    <?php require_once 'resources/layout/header.php'; ?>
+    <?php require_once 'assets/layout/header.php'; ?>
 
     <div class="index-banner">
       <div class="banner-text">
